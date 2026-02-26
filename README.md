@@ -5,7 +5,7 @@ React usa el Virtual DOM para ver que partes de la pantalla cambiaron y actualiz
 
 
 ## Division de Tareas
-María Gpe. Soto: Home screen y Nav Bar
-Juan Pablo Gil: Map.jsx
-Juan Pablo Torres: Memo.jsx
-Gustavo Garcia Tellez: Map.jsx y Memo.jsx
+- María Gpe. Soto: Home screen y Nav Bar
+- Juan Pablo Gil: Map.jsx
+- Juan Pablo Torres: Memo.jsx
+- Gustavo Garcia Tellez: Map.jsx y Memo.jsx
